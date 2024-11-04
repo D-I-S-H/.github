@@ -1,2 +1,2 @@
 # D.I.S.H
-Organization for the [DISH](https://github.com/D-I-S-H/dish) project.
+Dining Information Served Here (DISH) is a project that aims to give students a better way to access MTU's dining hall information.  
